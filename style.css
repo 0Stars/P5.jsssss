@@ -1,0 +1,74 @@
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+    border:1px solid black;
+}
+
+#Filter
+{
+    color: white;
+    background-color: deepskyblue;
+    font-family: 'Lexend', sans-serif;
+}
+
+#TakePic
+{
+    color: white;
+    background-color: deepskyblue;
+    font-family: 'Lexend', sans-serif;
+}
+
+#color_name
+{
+    color: white;
+    background-color: deepskyblue;
+    font-family: 'Lexend', sans-serif;
+}
+
+label
+{
+    font-family: 'Lexend', sans-serif;
+}
+
+h1
+{
+    font-family: 'Lexend', sans-serif;
+}
+
+h2
+{
+    font-family: 'Lexend', sans-serif;
+}
+
+h3
+{
+    font-family: 'Lexend', sans-serif;
+}
+
+h4
+{
+    font-family: 'Lexend', sans-serif;
+}
+
+h5
+{
+    font-family: 'Lexend', sans-serif;
+}
+
+h6
+{
+    font-family: 'Lexend', sans-serif;
+}
+
+p
+{
+    font-family: 'Lexend', sans-serif;
+}
+
+input
+{
+    font-family: 'Lexend', sans-serif;
+}
+
